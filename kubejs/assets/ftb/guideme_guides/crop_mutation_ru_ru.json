@@ -1,0 +1,14 @@
+{
+  "item_settings": {
+    "display_name": {
+      "text": "Мутация культур"
+    },
+    "tooltip_lines": [
+      {
+        "text": "Каждое скрещивание семян Mystical Agriculture в FTB Evolution 2",
+        "color": "dark_gray"
+      }
+    ]
+  },
+  "default_language": "ru_ru"
+}

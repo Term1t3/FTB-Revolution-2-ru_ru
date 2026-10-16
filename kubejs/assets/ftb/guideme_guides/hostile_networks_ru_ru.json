@@ -1,0 +1,14 @@
+{
+  "item_settings": {
+    "display_name": {
+      "text": "Враждебные нейронные сети"
+    },
+    "tooltip_lines": [
+      {
+        "text": "Модели данных и Центр данных в FTB Evolution 2",
+        "color": "dark_gray"
+      }
+    ]
+  },
+  "default_language": "ru_ru"
+}

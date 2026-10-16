@@ -1,0 +1,29 @@
+---
+navigation:
+  title: Селестигем
+  position: 3
+  icon: "justdirethings:celestigem"
+  parent: irons_jewelry:gems.md
+---
+# <Color id="light_purple">Селестигем</Color>
+
+<ItemImage id="justdirethings:celestigem" scale="3" />
+
+Этот предмет можно использовать как <Color id="light_purple">Драгоценный камень</Color> для украшений Iron's.
+
+- <Color id="gray">Множитель качества</Color>: 3.5
+
+<ItemImage id="minecraft:air" scale="0.25"/>
+
+### <Color id="aqua">Атрибут</Color>
+- Добавляет «Клинок в ночи» (Blade in the Night)
+
+<ItemImage id="minecraft:air" scale="0.25"/>
+
+### <Color id="aqua">Эффект иммунитета</Color>
+- Иммунитет к Тьме
+
+<ItemImage id="minecraft:air" scale="0.25"/>
+
+### <Color id="aqua">Эффект действия</Color>
+- Накладывает Левитацию

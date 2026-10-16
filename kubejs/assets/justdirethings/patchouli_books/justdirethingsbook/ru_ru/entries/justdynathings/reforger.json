@@ -1,0 +1,15 @@
+{
+  "name": "Плати и побеждай",
+  "sortnum": 6,
+  "category": "justdirethings:justdynathings",
+  "icon": "justdirethings:reforger",
+  "flag": "!mod:justdirethings",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "title": "Перековщик",
+      "recipe": "justdynathings:reforger",
+      "text": "Мощная машина, которая позволяет преобразовывать входной блок, помещенный на красную грань, в выходной блок ценой катализатора"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Не люблю кормить слизь",
+  "sortnum": 10,
+  "category": "justdirethings:justdynathings",
+  "icon": "justdirethings:stabilizer",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "title": "Стабилизатор",
+      "recipe": "justdynathings:stabilizer",
+      "text": "Он может оживлять любую слизь (goo) на вершине себя, используя энергию Forge $(br) Также он может использоваться для поддержания работы Парадоксального смесителя"
+    },
+    {
+      "type": "patchouli:multiblock",
+      "multiblock": {
+        "pattern": [["G"], ["R"], ["0"]],
+        "mapping": {
+          "G": "justdirethings:gooblock_tier2[alive=true]",
+          "R": "justdynathings:stabilizer[active=true,facing=down,energized=false]"
+        }
+      },
+      "enable_visualize": false
+    }
+  ]
+}

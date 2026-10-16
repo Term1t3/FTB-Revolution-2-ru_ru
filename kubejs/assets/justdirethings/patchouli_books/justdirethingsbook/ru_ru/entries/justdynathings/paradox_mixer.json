@@ -1,0 +1,13 @@
+{
+  "name": "Парадокс упрощает жизнь!",
+  "sortnum": 12,
+  "category": "justdirethings:justdynathings",
+  "icon": "justdynathings:abstract_paradox",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Парадоксальный смеситель",
+      "text": "Нестабильный блок, который позволяет массово создавать рецепты жидкостей.$(br)Требует как минимум один запитанный Стабилизатор.$(br)$(br)$(italic)*Пользовательский рендеринг не работает в Patchouli*$()"
+    }
+  ]
+}
